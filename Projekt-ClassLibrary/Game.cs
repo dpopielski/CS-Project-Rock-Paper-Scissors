@@ -4,11 +4,14 @@ namespace Projekt_ClassLibrary
 {
     public class Game
     {
+        Computer computer;
         Player player;
-        Computer computer; 
 
         public Game()
         {
+            player = new Player();
+            computer = new Computer();
+
             bool playAgain = true;
 
             //Rozpoczęcie gry
@@ -32,8 +35,8 @@ namespace Projekt_ClassLibrary
 
                     switch (computer.arrMoves[computer.randomMove()])
                     {
-                        case "rock":
-                            Console.WriteLine("Komputer: kamien");
+                        case "kamien":
+                            Console.WriteLine("Komputer: Kamien");
 
                             if (player.userInput == 1)
                             {
@@ -49,7 +52,7 @@ namespace Projekt_ClassLibrary
                             }
                             break;
 
-                        case "paper":
+                        case "papier":
                             Console.WriteLine("Komputer: Papier");
 
                             if (player.userInput == 1)
@@ -66,7 +69,7 @@ namespace Projekt_ClassLibrary
                             }
                             break;
 
-                        case "scissors":
+                        case "nozyce":
                             Console.WriteLine("Komputer: Nozyce");
 
                             if (player.userInput == 1)

@@ -44,6 +44,5 @@ namespace Projekt_ClassLibrary
                 Console.WriteLine("Błedny wybor!!!");
             }
         }
-
     }
 }

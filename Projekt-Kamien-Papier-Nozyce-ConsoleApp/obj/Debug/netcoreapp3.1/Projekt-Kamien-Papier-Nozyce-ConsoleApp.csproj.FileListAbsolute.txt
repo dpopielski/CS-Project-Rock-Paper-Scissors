@@ -1,0 +1,16 @@
+C:\Users\popielaty\source\repos\Projekt-Kamien-Papier-Nozyce-ConsoleApp\Projekt-Kamien-Papier-Nozyce-ConsoleApp\bin\Debug\netcoreapp3.1\Projekt-Kamien-Papier-Nozyce-ConsoleApp.exe
+C:\Users\popielaty\source\repos\Projekt-Kamien-Papier-Nozyce-ConsoleApp\Projekt-Kamien-Papier-Nozyce-ConsoleApp\bin\Debug\netcoreapp3.1\Projekt-Kamien-Papier-Nozyce-ConsoleApp.deps.json
+C:\Users\popielaty\source\repos\Projekt-Kamien-Papier-Nozyce-ConsoleApp\Projekt-Kamien-Papier-Nozyce-ConsoleApp\bin\Debug\netcoreapp3.1\Projekt-Kamien-Papier-Nozyce-ConsoleApp.runtimeconfig.json
+C:\Users\popielaty\source\repos\Projekt-Kamien-Papier-Nozyce-ConsoleApp\Projekt-Kamien-Papier-Nozyce-ConsoleApp\bin\Debug\netcoreapp3.1\Projekt-Kamien-Papier-Nozyce-ConsoleApp.runtimeconfig.dev.json
+C:\Users\popielaty\source\repos\Projekt-Kamien-Papier-Nozyce-ConsoleApp\Projekt-Kamien-Papier-Nozyce-ConsoleApp\bin\Debug\netcoreapp3.1\Projekt-Kamien-Papier-Nozyce-ConsoleApp.dll
+C:\Users\popielaty\source\repos\Projekt-Kamien-Papier-Nozyce-ConsoleApp\Projekt-Kamien-Papier-Nozyce-ConsoleApp\bin\Debug\netcoreapp3.1\Projekt-Kamien-Papier-Nozyce-ConsoleApp.pdb
+C:\Users\popielaty\source\repos\Projekt-Kamien-Papier-Nozyce-ConsoleApp\Projekt-Kamien-Papier-Nozyce-ConsoleApp\bin\Debug\netcoreapp3.1\Projekt-ClassLibrary.dll
+C:\Users\popielaty\source\repos\Projekt-Kamien-Papier-Nozyce-ConsoleApp\Projekt-Kamien-Papier-Nozyce-ConsoleApp\bin\Debug\netcoreapp3.1\Projekt-ClassLibrary.pdb
+C:\Users\popielaty\source\repos\Projekt-Kamien-Papier-Nozyce-ConsoleApp\Projekt-Kamien-Papier-Nozyce-ConsoleApp\obj\Debug\netcoreapp3.1\Projekt-Kamien-Papier-Nozyce-ConsoleApp.csprojAssemblyReference.cache
+C:\Users\popielaty\source\repos\Projekt-Kamien-Papier-Nozyce-ConsoleApp\Projekt-Kamien-Papier-Nozyce-ConsoleApp\obj\Debug\netcoreapp3.1\Projekt-Kamien-Papier-Nozyce-ConsoleApp.csproj.CoreCompileInputs.cache
+C:\Users\popielaty\source\repos\Projekt-Kamien-Papier-Nozyce-ConsoleApp\Projekt-Kamien-Papier-Nozyce-ConsoleApp\obj\Debug\netcoreapp3.1\Projekt-Kamien-Papier-Nozyce-ConsoleApp.AssemblyInfoInputs.cache
+C:\Users\popielaty\source\repos\Projekt-Kamien-Papier-Nozyce-ConsoleApp\Projekt-Kamien-Papier-Nozyce-ConsoleApp\obj\Debug\netcoreapp3.1\Projekt-Kamien-Papier-Nozyce-ConsoleApp.AssemblyInfo.cs
+C:\Users\popielaty\source\repos\Projekt-Kamien-Papier-Nozyce-ConsoleApp\Projekt-Kamien-Papier-Nozyce-ConsoleApp\obj\Debug\netcoreapp3.1\Projekt-Kamien-Papier-Nozyce-ConsoleApp.csproj.CopyComplete
+C:\Users\popielaty\source\repos\Projekt-Kamien-Papier-Nozyce-ConsoleApp\Projekt-Kamien-Papier-Nozyce-ConsoleApp\obj\Debug\netcoreapp3.1\Projekt-Kamien-Papier-Nozyce-ConsoleApp.dll
+C:\Users\popielaty\source\repos\Projekt-Kamien-Papier-Nozyce-ConsoleApp\Projekt-Kamien-Papier-Nozyce-ConsoleApp\obj\Debug\netcoreapp3.1\Projekt-Kamien-Papier-Nozyce-ConsoleApp.pdb
+C:\Users\popielaty\source\repos\Projekt-Kamien-Papier-Nozyce-ConsoleApp\Projekt-Kamien-Papier-Nozyce-ConsoleApp\obj\Debug\netcoreapp3.1\Projekt-Kamien-Papier-Nozyce-ConsoleApp.genruntimeconfig.cache

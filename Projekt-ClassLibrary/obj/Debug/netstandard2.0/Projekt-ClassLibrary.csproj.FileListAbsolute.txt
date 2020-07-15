@@ -1,0 +1,9 @@
+C:\Users\popielaty\source\repos\Projekt-Kamien-Papier-Nozyce-ConsoleApp\Projekt-ClassLibrary\bin\Debug\netstandard2.0\Projekt-ClassLibrary.deps.json
+C:\Users\popielaty\source\repos\Projekt-Kamien-Papier-Nozyce-ConsoleApp\Projekt-ClassLibrary\bin\Debug\netstandard2.0\Projekt-ClassLibrary.dll
+C:\Users\popielaty\source\repos\Projekt-Kamien-Papier-Nozyce-ConsoleApp\Projekt-ClassLibrary\bin\Debug\netstandard2.0\Projekt-ClassLibrary.pdb
+C:\Users\popielaty\source\repos\Projekt-Kamien-Papier-Nozyce-ConsoleApp\Projekt-ClassLibrary\obj\Debug\netstandard2.0\Projekt-ClassLibrary.csprojAssemblyReference.cache
+C:\Users\popielaty\source\repos\Projekt-Kamien-Papier-Nozyce-ConsoleApp\Projekt-ClassLibrary\obj\Debug\netstandard2.0\Projekt-ClassLibrary.csproj.CoreCompileInputs.cache
+C:\Users\popielaty\source\repos\Projekt-Kamien-Papier-Nozyce-ConsoleApp\Projekt-ClassLibrary\obj\Debug\netstandard2.0\Projekt-ClassLibrary.AssemblyInfoInputs.cache
+C:\Users\popielaty\source\repos\Projekt-Kamien-Papier-Nozyce-ConsoleApp\Projekt-ClassLibrary\obj\Debug\netstandard2.0\Projekt-ClassLibrary.AssemblyInfo.cs
+C:\Users\popielaty\source\repos\Projekt-Kamien-Papier-Nozyce-ConsoleApp\Projekt-ClassLibrary\obj\Debug\netstandard2.0\Projekt-ClassLibrary.dll
+C:\Users\popielaty\source\repos\Projekt-Kamien-Papier-Nozyce-ConsoleApp\Projekt-ClassLibrary\obj\Debug\netstandard2.0\Projekt-ClassLibrary.pdb
